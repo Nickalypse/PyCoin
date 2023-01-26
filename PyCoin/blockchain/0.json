@@ -1,0 +1,38 @@
+{
+  "header" : {
+    "hashPrevBlock" : "0000000000000000000000000000000000000000000000000000000000000000",
+    "merkleRoot" : "c1128955f9bc7fa4f2992b93ff9c0528f7d68440aafca583d07285bb3b46d093",
+    "difficulty" : 110427941548649020598956093796432407239217743554726184882600387580788735,
+    "time" : 1528449184,
+    "nonce" : 3845019676
+  },
+
+  "hash" : "0000080a63e436fa5fd91aa58055413b8eedd540a0352fdc8eb6293f7fc185dd",
+  "height" : 0,
+  "fee" : 0.0,
+  "tx_counter" : 1,
+
+  "tx" : [
+
+    {
+      "txid" : "33157c645c5e0a711806d064000ed7d8c0910fe20780bf357022685c5c4fe802",
+      "in_counter": 1,
+      "out_counter": 1,
+      "in": [
+        {
+          "txid": "0000000000000000000000000000000000000000000000000000000000000000",
+          "index": -1,
+          "unlock": "I'm the Pycoin's Genesis Block. Follow my Blockchain."
+        }
+      ],
+      "out": [
+        {
+          "value": 64.0,
+          "recipient": "bSLumahuvSM4MEYDbzGQ3iSsds1D9KuV4YQyqTS4wbZaBX4SDrdaLV8KehdybQGrfz26",
+          "spent" : "locked"
+        }
+      ]
+    }
+
+  ]
+}
